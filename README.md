@@ -5,7 +5,7 @@ An end-to-end Power BI dashboard that analyses digital payment transactions (Pho
 
 
 ## Dashboard Preview
-![PhonePe Dashboard — Executive Summary](images/dashboard-preview.png)
+![PhonePe Dashboard — Executive Summary](assets/phone_pe_ss.png)
 
 
 ## Project Overview
