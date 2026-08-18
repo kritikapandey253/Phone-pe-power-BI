@@ -3,6 +3,11 @@
 An end-to-end Power BI dashboard that analyses digital payment transactions (PhonePe-style UPI data) across users, services, time and payment outcomes — built to turn raw transaction logs into decision-ready insights.
 
 
+
+## Dashboard Preview
+![PhonePe Dashboard — Executive Summary](images/dashboard-preview.png)
+
+
 ## Project Overview
 The dashboard answers the questions a payments/product team actually asks:
 - How many users transact, and how much value flows month over month?
@@ -49,12 +54,9 @@ Interactivity: slicers for month and service, cross-filtering across all visuals
 - Success rate monitoring highlights failure-heavy payment paths for operational fixes.
 - Weekend and age-segment splits reveal distinct usage patterns useful for campaign timing.
 
-## How to Use
-1. Clone this repository.
-2. Open `PhonePe_Dashboard.pbix` in Power BI Desktop (latest version).
-3. Refresh the data source if you point it at your own dataset.
 
 
 ## Author
 **Kritika Pandey** — Data Analyst
 Power BI · SQL · Excel · DAX · Power Query
+
